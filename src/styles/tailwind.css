@@ -1,0 +1,8 @@
+@import 'tailwindcss' source(none);
+@source '../**/*.{js,ts,jsx,tsx}';
+
+@theme {
+  --font-family-sans: 'Inter', sans-serif;
+}
+
+@import 'tw-animate-css';
